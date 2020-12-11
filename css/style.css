@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+}
+
+header{
+
+}
+
+header nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header img{
+    width: 40px;
+    opacity: 0.3;
+    transition: opacity .5s;
+}
+
+header img:hover{
+    opacity: 1;
+}
